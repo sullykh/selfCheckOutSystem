@@ -197,108 +197,100 @@
         <DimensionLayout dim="0">
           <Group type="103" groupAlignment="0" attributes="0">
               <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
+                  <Component id="pricelbl5" min="-2" pref="41" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
+                  <Component id="pricelbl3" min="-2" pref="41" max="-2" attributes="0"/>
+                  <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
                   <Group type="103" groupAlignment="0" attributes="0">
-                      <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="lblbiscuits" min="-2" pref="93" max="-2" attributes="0"/>
-                              <Group type="102" attributes="0">
-                                  <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
-                                  <Group type="103" groupAlignment="0" attributes="0">
-                                      <Group type="102" alignment="0" attributes="0">
-                                          <Component id="lblbook" min="-2" pref="93" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="pricelbl15" min="-2" pref="24" max="-2" attributes="0"/>
-                                      </Group>
-                                      <Group type="102" alignment="0" attributes="0">
-                                          <Component id="lblsnack" min="-2" pref="93" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="pricelbl17" min="-2" pref="24" max="-2" attributes="0"/>
-                                      </Group>
-                                      <Group type="102" alignment="0" attributes="0">
-                                          <Component id="lblpen" min="-2" pref="93" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="pricelbl6" min="-2" pref="24" max="-2" attributes="0"/>
-                                      </Group>
-                                      <Group type="102" alignment="0" attributes="0">
-                                          <Component id="lblsweet" min="-2" pref="93" max="-2" attributes="0"/>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Component id="pricelbl19" min="-2" pref="24" max="-2" attributes="0"/>
-                                      </Group>
-                                      <Group type="102" alignment="0" attributes="0">
-                                          <Group type="103" groupAlignment="0" attributes="0">
-                                              <Component id="lblwater" alignment="0" min="-2" pref="93" max="-2" attributes="0"/>
-                                              <Component id="lbldrink" alignment="0" min="-2" pref="89" max="-2" attributes="0"/>
-                                          </Group>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Group type="103" groupAlignment="0" attributes="0">
-                                              <Component id="pricelbl16" min="-2" pref="24" max="-2" attributes="0"/>
-                                              <Component id="pricelbl18" alignment="0" min="-2" pref="24" max="-2" attributes="0"/>
-                                          </Group>
-                                      </Group>
-                                      <Group type="102" alignment="0" attributes="0">
-                                          <Group type="103" groupAlignment="0" attributes="0">
-                                              <Component id="lblchocolate" alignment="0" min="-2" max="-2" attributes="0"/>
-                                              <Component id="lblcake" alignment="0" min="-2" pref="93" max="-2" attributes="0"/>
-                                          </Group>
-                                          <EmptySpace type="separate" max="-2" attributes="0"/>
-                                          <Group type="103" groupAlignment="0" attributes="0">
-                                              <Component id="pricelbl22" min="-2" pref="24" max="-2" attributes="0"/>
-                                              <Component id="pricelbl20" min="-2" pref="24" max="-2" attributes="0"/>
-                                              <Component id="pricelbl21" min="-2" pref="24" max="-2" attributes="0"/>
-                                          </Group>
-                                      </Group>
-                                  </Group>
-                              </Group>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
+                          <Group type="103" groupAlignment="1" attributes="0">
+                              <Component id="pricelbl7" min="-2" max="-2" attributes="0"/>
+                              <Component id="pricelbl8" min="-2" max="-2" attributes="0"/>
+                              <Component id="pricelbl4" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="pricelbl9" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="pricelbl10" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="pricelbl11" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="pricelbl12" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="pricelbl13" alignment="1" min="-2" max="-2" attributes="0"/>
+                              <Component id="pricelbl14" alignment="1" min="-2" max="-2" attributes="0"/>
                           </Group>
-                          <EmptySpace max="32767" attributes="0"/>
-                          <Group type="103" groupAlignment="0" attributes="0">
-                              <Component id="drinkqtylbl" min="-2" pref="50" max="-2" attributes="0"/>
-                              <Group type="103" groupAlignment="0" attributes="0">
-                                  <Component id="waterqtylbl" alignment="1" min="-2" pref="50" max="-2" attributes="0"/>
-                                  <Group type="103" alignment="0" groupAlignment="1" attributes="0">
-                                      <Component id="bookqtylbl" alignment="1" min="-2" pref="50" max="-2" attributes="0"/>
-                                      <Component id="penqtylbl" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                                  </Group>
-                              </Group>
-                              <Component id="snackqtylbl" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                              <Component id="sweetqtylbl" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                              <Component id="chocqtylbl" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                              <Component id="biscuitsqtylbl" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                              <Component id="cakeqtylbl" alignment="0" min="-2" pref="50" max="-2" attributes="0"/>
-                          </Group>
+                          <EmptySpace min="-2" pref="70" max="-2" attributes="0"/>
+                          <Component id="waterqtylbl" max="32767" attributes="0"/>
                       </Group>
                       <Group type="102" alignment="0" attributes="0">
-                          <EmptySpace min="-2" pref="31" max="-2" attributes="0"/>
-                          <Component id="pricelbl5" min="-2" pref="41" max="-2" attributes="0"/>
-                          <EmptySpace min="-2" pref="41" max="-2" attributes="0"/>
-                          <Component id="pricelbl3" min="-2" pref="41" max="-2" attributes="0"/>
-                          <EmptySpace min="-2" pref="27" max="-2" attributes="0"/>
+                          <Component id="pricelbl2" min="-2" pref="46" max="-2" attributes="0"/>
+                          <EmptySpace pref="41" max="32767" attributes="0"/>
+                          <Component id="pricelbl1" min="-2" pref="58" max="-2" attributes="0"/>
+                          <EmptySpace min="-2" pref="23" max="-2" attributes="0"/>
+                      </Group>
+                  </Group>
+              </Group>
+              <Group type="102" attributes="0">
+                  <EmptySpace min="-2" pref="11" max="-2" attributes="0"/>
+                  <Group type="103" groupAlignment="0" attributes="0">
+                      <Component id="lblbiscuits" min="-2" pref="93" max="-2" attributes="0"/>
+                      <Group type="102" attributes="0">
+                          <EmptySpace min="2" pref="2" max="-2" attributes="0"/>
                           <Group type="103" groupAlignment="0" attributes="0">
-                              <Group type="102" attributes="0">
-                                  <Component id="pricelbl2" min="-2" pref="46" max="-2" attributes="0"/>
-                                  <EmptySpace pref="33" max="32767" attributes="0"/>
-                                  <Component id="pricelbl1" min="-2" pref="58" max="-2" attributes="0"/>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblbook" min="-2" pref="93" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="pricelbl15" min="-2" pref="24" max="-2" attributes="0"/>
                               </Group>
                               <Group type="102" alignment="0" attributes="0">
-                                  <EmptySpace min="-2" pref="10" max="-2" attributes="0"/>
-                                  <Group type="103" groupAlignment="1" attributes="0">
-                                      <Component id="pricelbl7" min="-2" max="-2" attributes="0"/>
-                                      <Component id="pricelbl8" min="-2" max="-2" attributes="0"/>
-                                      <Component id="pricelbl4" alignment="1" min="-2" max="-2" attributes="0"/>
-                                      <Component id="pricelbl9" alignment="1" min="-2" max="-2" attributes="0"/>
-                                      <Component id="pricelbl10" alignment="1" min="-2" max="-2" attributes="0"/>
-                                      <Component id="pricelbl11" alignment="1" min="-2" max="-2" attributes="0"/>
-                                      <Component id="pricelbl12" alignment="1" min="-2" max="-2" attributes="0"/>
-                                      <Component id="pricelbl13" alignment="1" min="-2" max="-2" attributes="0"/>
-                                      <Component id="pricelbl14" alignment="1" min="-2" max="-2" attributes="0"/>
+                                  <Component id="lblsnack" min="-2" pref="93" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="pricelbl17" min="-2" pref="24" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblpen" min="-2" pref="93" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="pricelbl6" min="-2" pref="24" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Component id="lblsweet" min="-2" pref="93" max="-2" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Component id="pricelbl19" min="-2" pref="24" max="-2" attributes="0"/>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="lblwater" alignment="0" min="-2" pref="93" max="-2" attributes="0"/>
+                                      <Component id="lbldrink" alignment="0" min="-2" pref="89" max="-2" attributes="0"/>
                                   </Group>
-                                  <EmptySpace min="0" pref="0" max="32767" attributes="0"/>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="pricelbl16" min="-2" pref="24" max="-2" attributes="0"/>
+                                      <Component id="pricelbl18" alignment="0" min="-2" pref="24" max="-2" attributes="0"/>
+                                  </Group>
+                              </Group>
+                              <Group type="102" alignment="0" attributes="0">
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="lblchocolate" alignment="0" min="-2" max="-2" attributes="0"/>
+                                      <Component id="lblcake" alignment="0" min="-2" pref="93" max="-2" attributes="0"/>
+                                  </Group>
+                                  <EmptySpace type="separate" max="-2" attributes="0"/>
+                                  <Group type="103" groupAlignment="0" attributes="0">
+                                      <Component id="pricelbl22" min="-2" pref="24" max="-2" attributes="0"/>
+                                      <Component id="pricelbl20" min="-2" pref="24" max="-2" attributes="0"/>
+                                      <Component id="pricelbl21" min="-2" pref="24" max="-2" attributes="0"/>
+                                  </Group>
                               </Group>
                           </Group>
                       </Group>
                   </Group>
-                  <EmptySpace max="-2" attributes="0"/>
+                  <EmptySpace max="32767" attributes="0"/>
+                  <Group type="103" groupAlignment="0" max="-2" attributes="0">
+                      <Component id="bookqtylbl" alignment="0" pref="70" max="32767" attributes="0"/>
+                      <Component id="snackqtylbl" alignment="0" max="32767" attributes="0"/>
+                      <Component id="sweetqtylbl" alignment="0" max="32767" attributes="0"/>
+                      <Component id="chocqtylbl" alignment="0" max="32767" attributes="0"/>
+                      <Component id="biscuitsqtylbl" alignment="0" max="32767" attributes="0"/>
+                      <Component id="cakeqtylbl" alignment="0" max="32767" attributes="0"/>
+                      <Component id="penqtylbl" alignment="0" max="32767" attributes="0"/>
+                      <Component id="drinkqtylbl" alignment="0" max="32767" attributes="0"/>
+                  </Group>
               </Group>
           </Group>
         </DimensionLayout>
