@@ -201,7 +201,7 @@ Pass/Fail	Pass
 
 
 public class selfCheckout extends javax.swing.JFrame {
-    //variable declarations
+    
     //defined objects using the Items class
     Items penObj = new Items      ("Pen      ", 1, 1, 20);
     Items bookObj = new Items     ("Book     ", 1, 1, 20);
@@ -215,7 +215,7 @@ public class selfCheckout extends javax.swing.JFrame {
     
    
     
- 
+    //variable declarations
     DefaultTableModel model;
     String item; 
     int price, qty, tot, newQty;
@@ -223,7 +223,7 @@ public class selfCheckout extends javax.swing.JFrame {
      
 
     /**
-     * Creates new form PizzeTest
+     * Creates new form selfCheckout
      */
     public selfCheckout() {
         initComponents();
