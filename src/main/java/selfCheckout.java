@@ -1208,7 +1208,7 @@ public class selfCheckout extends javax.swing.JFrame {
             bw.close();
             fw.close();
             //dislog message to show the text file has been produced correctly.
-            JOptionPane.showMessageDialog(null, ">>>> Recipt printed successfully <<<<");
+            JOptionPane.showMessageDialog(null, ">>>> Recipt printed successfully <<<<  \n  The file is located within the project's folder.");
             setVisible(true);
             
             
